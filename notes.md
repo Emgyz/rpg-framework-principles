@@ -8,6 +8,7 @@ What does this contain?
 A lot of fancy variable names, folder structures and categorization that took me way too long to figure out. Also types with properties
 
 Table of contents:
+* Introduction
 * The stack
     * Jecs
     * Replecs
@@ -15,11 +16,13 @@ Table of contents:
     * Roact
     * Axis
 * The structure
-    * Replicated Storage / Assets
-    * Replicated Storage / Data / Static (templates)
+    * Assets
+    * Static data (templates)
+        * Static data types
     * Runtime data (ECS entities)
     * Startup systems
     * ECS systems
+* Terminology
 
 
 
