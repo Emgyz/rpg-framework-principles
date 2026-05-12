@@ -9,7 +9,7 @@ I felt enlightened when I learned OOP, but the further I got into it, the more I
 
 Data and functionality are two fundamentally different things and somewhere along the way, someone thought it necessary to mash them together... Now it is taught as "the meta" in school... Terrible stuff...
 
-Then I stumbled onto a Roblox Devforum post and learned about ECS & composition, which has a steeper learningcurve, but is simply the superior way of programming compared to programming.
+Then I stumbled onto a Roblox Devforum post and learned about ECS & composition & data oriented programming, which has a steeper learningcurve, but (I think) is simply the superior way of programming compared to object oriented programming.
 
 
 <br>
@@ -44,7 +44,7 @@ I have not yet solved these problems. Editing the code of Profilestore and addin
 __Here are listed some libraries which could be implemented, but aren't all that necessary for the rpg framwork.__
 
 ### Roact
-Roact is a GUI library. It makes it so GUI elements can be declared through code, which I like the idea of a lot more than messing around with GUI objects in the Roblox Studio explorer.
+Roact is a GUI library. It makes it so GUI elements can be declared through code, quite like React / Svelte / whateverfrontendframework components, which I like the idea of a lot more than messing around with GUI objects in the Roblox Studio explorer.
 
 ### Axis
 Axis is an input library.
