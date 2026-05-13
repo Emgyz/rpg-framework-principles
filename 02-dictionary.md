@@ -1,6 +1,6 @@
 # Dictionary
 
-__This repo contains lots of words and terms which I don't want to forget the meaning of, so I will write them down here. Some of these I made up myself, like "objects". Sure these are English words, but they might mean something else in this repo then they usually do.__
+__This repo contains lots of words and terms which I don't want to forget the meaning of, so I will write them down here. Some of these I made up myself, like "objects". Sure these are English words, but they might mean something else in this repo than they usually do.__
 
 __ECS__: entities, components, systems, composition over inheritance
 

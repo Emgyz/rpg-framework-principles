@@ -21,4 +21,4 @@
 5. Composition in static data
 
 ## Disclaimer
-This whole thing is sort of a ramble and I think their are some good ideas in it, but it is not finished at all :)
+This whole thing is sort of a ramble and I think their are some good ideas in it, but it is not polished at all :)
