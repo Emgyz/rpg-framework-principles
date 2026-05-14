@@ -1,4 +1,4 @@
-# Structure | Assets
+# Structure -> Assets
 
 __This chapter is about how the assets are stored. Although asset storage seems like possibly the easiest thing about game dev, I found that if you want to make a complex game with tons of content, where anything can be anything, it quickly becomes a nightmare to keep the folder structure extendable, maintainable and reusable... Here I discuss the seamingly easy way to do it, why it fails on a larger scale and what I do instead.__
 
