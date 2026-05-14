@@ -1,8 +1,10 @@
 # Structure -> Static data
 
 ## notes:
-- fdfs
-- fsd
+- static data defines how the game behaves at runtime
+- Static data contains all the properties and references to the relevant assets (model, icon)
+- I called it "templates"
+ 
 
 
 

@@ -253,3 +253,11 @@ The reason I do my asset storage this way, is that it soothes my brain. The more
 There is no other way. If you try another way, you will get stuck when your game reaches a certain size. It will be a giant blob of immovable code and assets, whereas a data oriented game, although big, will still be workable.
 
 I do realise that sadly not everything can be data oriented. Games are just a prime example of something that CAN be data oriented. Maybe that is why I like making them so much...
+
+## Conclusion
+
+There is no perfect way, but keeping this in mind will go a long way:
+1. Store assets based on assettype and use strong naming conventions.
+2. Skip item centered asset storage, because the filesystem would be like 8 layers deep from all the complexity and reusing assets would be nightmarish.
+
+Using a hybrid of folderstructure and naming conventions keeps the filesysteem relatively flat, while also avoiding incredibly long and confusing asset names.

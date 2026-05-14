@@ -36,8 +36,6 @@
         - model
         - image
 
-### rs.assets.gui
-Clarification: in Roblox, GUI objects are physical objects in the explorer, not code. Libraries like Roact can make GUI out of scriptable components, but it's not built-in.
 
 ### rs.assets.models
 this structure and naming is not definite and I might change it later. The "Equipables" folder for example, could be either in "Models" or in "Objects", based on how the logic works. If the developer wants an equiped object to be its own entity and not be (directly) effected by the entity that is equiping the equipable, it might be put in the "Entities" subfolder.

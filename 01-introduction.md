@@ -21,4 +21,4 @@
 5. Composition in static data
 
 ## Disclaimer
-This whole thing is sort of a ramble and I think their are some good ideas in it, but it is not polished at all :)
+This whole thing is sort of a ramble and I think their are some good ideas in it, but it is not polished at all. It is mainly ment for me my very self for when I want to make another attempt at making a game, but you are welcome to read it :)

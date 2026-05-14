@@ -86,4 +86,6 @@ __Templates__: Templates is a different word for static data. It's the game cont
         }
     }
 
-__Objects__: while usually the word object refers to OOP, classes and objects, etc. In this repo it refers to the combination of a template and an entity. A car is an ECS entity which uses the car template as a template.
+__Objects__: while usually the word object refers to OOP, classes and objects, etc. In this repo it refers to the combination of a template, an entity and the model of that entity. For example, a tree has a template (static data), an ECS entity (runtime data) and a model in the 3d space (workspace on Roblox). The model is bound to the ECS entity with a component.
+
+__Items__: items are ECS entities that do not have a model, but are inside of (relationship) an ItemStorage component. In other words, they are in a chest, inventory or something alike.
