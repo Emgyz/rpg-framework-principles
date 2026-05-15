@@ -22,11 +22,12 @@ Here are features that might improve the fun factor, but are not functionally ne
 4. The player sees a tree.
 5. The player cuts down the tree with the pebble(s) (stackable or not??)
 6. The tree shakes when getting hit
-7. The player makes a stone tool with the pebbles and the wood from tree
-8. A zombie spawns
-9. The player attacks the zombie with the stone tool
-10. An attack animation plays
-11. The zombie takes knockback
+7. The tree drops (among other things) wood
+8. The player makes a stone tool with the pebbles and the wood from tree
+9. A zombie spawns
+10. The player attacks the zombie with the stone tool
+11. An attack animation plays
+12. The zombie takes knockback
 
 Well done, if all these steps are possible, there are now:
 - objects
